@@ -26,11 +26,11 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *@ffxryu.18* —◉
+║    ◉— *ThankUNext* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* Ryu
+║➤ *Owner:* ThankUNext
 ║➤ *Numero:* wa.me/51955095498
 ║➤ *Bot ofc:* wa.me/56920742083
 ║➤ *Yape:* 933 032 298
@@ -46,7 +46,7 @@ let str = `
 ┣ *🧰 Experiencia:* ${exp}
 ┣ *⚓ Rango:* ${role}
 ┣ *💎 Diamantes:* ${limit}
-┣ *👾 RyuCoins:* ${money}
+┣ *👾 TUNCoins:* ${money}
 ┣ *🪙 Tokens:* ${joincount}
 ┣ *🎟️ Premium:* ${user.premiumTime > 0 ? '✅' : '❌'}
 ┗━━━━━━━━━━━━━━━━┛

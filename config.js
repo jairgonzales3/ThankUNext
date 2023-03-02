@@ -8,7 +8,7 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['51955095498', 'ThankUNext', true],
+  ['51917555197', 'ThankUNext', true],
   ['51955095498', '@ffxryu.18', true],
   ['51955095498', '@ffxryu.18', true],
   ['51955095498', '@ffxryu.18', true],
